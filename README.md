@@ -7,5 +7,4 @@ I am currently a Software Engineer at Amazon working on the 'Your Orders' (Order
 - 🥋 I'm a Jiu Jitsu Blue Belt
 - 🥊 I enjoy Muay Thai
 - 🐶 I have a dog named Hugo
-- 
 
