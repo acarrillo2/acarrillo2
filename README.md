@@ -6,5 +6,6 @@ I am currently a Software Engineer at Amazon working on the 'Your Orders' (Order
 - 📖 I'm currently reading: **Clean Code**
 - 🥋 I'm a Jiu Jitsu Blue Belt
 - 🥊 I enjoy Muay Thai
-- 🐶 I have a dog named Hugo
+- 🐶 I have a American Stafforshire Terrier named Hugo
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acarrillo2&layout=compact)](https://github.com/acarrillo2)
